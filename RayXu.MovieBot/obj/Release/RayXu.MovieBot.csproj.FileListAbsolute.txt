@@ -1,0 +1,42 @@
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Bot Application.dll.config
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Bot Application.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Bot Application.pdb
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Autofac.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Chronic.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Bot.Builder.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Bot.Connector.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Newtonsoft.Json.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.Net.Http.Formatting.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.Web.Http.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.Web.Http.WebHost.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Autofac.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Bot.Builder.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.Bot.Connector.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\Newtonsoft.Json.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.Net.Http.Formatting.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.Web.Http.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\System.Web.Http.WebHost.xml
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\obj\Release\RayXu.MovieBot.csprojResolveAssemblyReference.cache
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\obj\Release\Bot Application.dll
+D:\Workspace\RayXu.MovieBot\RayXu.MovieBot\obj\Release\Bot Application.pdb
